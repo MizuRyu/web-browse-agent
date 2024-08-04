@@ -1,0 +1,12 @@
+python-dotenv
+langchain
+langchain-core
+langchain-prompty
+langchain-openai
+langchain-community
+langgraph
+
+# web search
+duckduckgo-search
+
+beautifulsoup4
